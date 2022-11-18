@@ -10,6 +10,7 @@ FILE=ListExamples.java
 if [[ -f "$FILE" ]]
 then
         echo "File exists"
+        echo "Successfully cloned"
 else
         echo "Cannot find the file"
         echo "Your score is 0"
